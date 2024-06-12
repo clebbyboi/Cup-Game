@@ -17,9 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_Ball","order":2,"path":"objects/obj_Ball/obj_Ball.yy",},
-    {"name":"obj_Cup","order":1,"path":"objects/obj_Cup/obj_Cup.yy",},
-    {"name":"spr_movementTest","order":1,"path":"sprites/spr_movementTest/spr_movementTest.yy",},
-    {"name":"ball","order":2,"path":"sprites/ball/ball.yy",},
+    {"name":"obj_ball","order":2,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_cup","order":1,"path":"objects/obj_cup/obj_cup.yy",},
+    {"name":"obj_gamemanager","order":3,"path":"objects/obj_gamemanager/obj_gamemanager.yy",},
+    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"spr_cup","order":2,"path":"sprites/spr_cup/spr_cup.yy",},
   ],
 }
